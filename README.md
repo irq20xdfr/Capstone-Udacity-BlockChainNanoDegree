@@ -34,6 +34,8 @@ truffle migrate
 truffle test
 ```
 
+![Screenshot](tests.png)
+
 ### Rinkeby owner address
 ```
 0x28f2fAe714FDcF85d9FC01Ea837641Ecfbe035EB
