@@ -41,10 +41,14 @@ truffle test
 0x28f2fAe714FDcF85d9FC01Ea837641Ecfbe035EB
 ```
 
+![Screenshot](owner.png)
+
 ### Rinkeby contract SolnSquareVerifier address
 ```
 0x8b324b459845203efCE7Af262aBd978E6228e19d
 ```
+
+![Screenshot](contract.png)
 
 ### OpenSea asset
 https://rinkeby.opensea.io/assets/0x8b324b459845203efce7af262abd978e6228e19d/3
