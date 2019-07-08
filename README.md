@@ -48,4 +48,4 @@ truffle test
 https://rinkeby.opensea.io/assets/0x8b324b459845203efce7af262abd978e6228e19d/3
 
 ### Contract ABI
-Under build/contracts
+Under eth-contracts/build/contracts
