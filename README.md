@@ -50,6 +50,12 @@ truffle test
 
 ![Screenshot](contract.png)
 
+### Rinkeby contract Verifier
+```
+0x50bfaDc56c7Fa25C735C2B2ec7aDd2aBB865caA2
+```
+![Screenshot](verifier.png)
+
 ### OpenSea asset
 https://rinkeby.opensea.io/assets/0x8b324b459845203efce7af262abd978e6228e19d/3
 
