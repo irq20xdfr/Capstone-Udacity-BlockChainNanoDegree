@@ -56,8 +56,8 @@ truffle test
 ```
 ![Screenshot](verifier.png)
 
-### OpenSea asset
-https://rinkeby.opensea.io/assets/0x8b324b459845203efce7af262abd978e6228e19d/3
+### OpenSea storefront (8 items)
+https://rinkeby.opensea.io/assets/complete-mintable-blockchain-token
 
 ### Contract ABI
 Under [eth-contracts/build/contracts](eth-contracts/build/contracts)
